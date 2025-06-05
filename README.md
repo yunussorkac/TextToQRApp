@@ -16,7 +16,6 @@
 
 | Technology | Usage |
 |------------|-------|
-| **Kotlin** | Primary programming language |
 | **Jetpack Compose** | UI toolkit for building native Android interfaces |
 | **Room** | Local database for storing QR history |
 | **ZXing** | QR code generation and decoding |
